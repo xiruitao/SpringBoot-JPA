@@ -134,11 +134,11 @@ private final static Logger logger = LoggerFactory.getLogger(ClassName.class);
 
 输出语句为：logger.info()，例：
 
-![aop处理http请求由logger打印信息](img/aop+logger.png)
+![aop处理http请求由logger打印信息](https://github.com/xiruitao/image/blob/images/springboot-mybatis,jpa/aop+logger.png?raw=true)
 
 **项目结构：**
 
-![girl项目结构](img/girl项目结构.png)
+![girl项目结构](https://github.com/xiruitao/image/blob/images/springboot-mybatis,jpa/girl%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png?raw=true)
 
 
 
